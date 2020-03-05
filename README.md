@@ -7,11 +7,12 @@ A simple cross platform (iOS and Android) React Native News App.
 > **Note:** Be sure you have the React Native CLI [installed on your system](https://facebook.github.io/react-native/docs/getting-started).
 
 - `git clone https://github.com/jqn/react-native-news-app.git`
-- `yarn install`/`npm install`
+- `npm install`
+- `(cd ios && pod install)`
 
 ### Running
 
-- `yarn run ios`/`npm run ios` or `yarn run android`/`npm run android`
+- `npx react-native run-ios` or `npx react-native run-android`
 
 ---
 

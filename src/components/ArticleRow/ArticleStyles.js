@@ -6,6 +6,9 @@ export default StyleSheet.create({
     flexDirection: 'row',
     marginBottom: 16,
   },
+  rowContainer: {
+    flex: 1,
+  },
   numberContainer: {
     width: 50,
     height: 50,

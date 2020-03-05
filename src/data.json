@@ -1,0 +1,212 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {"id": null, "name": "Nytimes.com"},
+      "author": null,
+      "title": "Coronavirus Updates: New Jersey Reports Its 1st Case and California Declares an Emergency - The New York Times",
+      "description": "Along with its first death, California recorded 54 cases, the most in the U.S. Now, the state faces a new challenge: a cruise ship off San Francisco with 21 sick passengers on board.",
+      "url": "https://www.nytimes.com/2020/03/05/world/coronavirus-news.html",
+      "urlToImage": "https://www.nytimes.com/newsgraphics/2020/03/04/corona-virus-social-images/assets/promo.jpg",
+      "publishedAt": "2020-03-05T06:41:00Z",
+      "content": "Gov. Philip D. Murphy said in a statement that the states Department of Health had received a presumptive positive result from a sample that was being submitted to the Centers for Disease Control and Prevention for further confirmation.\r\nIt was not immediatel… [+1380 chars]"
+    },
+    {
+      "source": {"id": "the-washington-post", "name": "The Washington Post"},
+      "author": null,
+      "title": "Live updates: Coronavirus death toll tops 3,000 in China as global costs mount - The Washington Post",
+      "description": "China remains by far the worst-hit country overall. But the epidemic there is slowing, while other countries are seeing outbreaks grow rapidly and economic disruption increasing.",
+      "url": "https://www.washingtonpost.com/world/2020/03/05/coronavirus-live-updates/",
+      "urlToImage": "https://www.washingtonpost.com/resizer/6FzEMapDAw9oftMZ1ihFTRNzVPg=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BHJIQAS6SUI6VLCQDBYB4FHANU.jpg",
+      "publishedAt": "2020-03-05T06:07:00Z",
+      "content": "The death toll of the novel coronavirus reached 11 in the United States on Wednesday as the epidemic spread, resulting in the first fatality outside of Washington state, that of a 71-year-old in northern California.\r\nAs of Wednesday evening, health officials … [+2249 chars]"
+    },
+    {
+      "source": {"id": "usa-today", "name": "USA Today"},
+      "author": "Cydney Henderson, Gary Dinges",
+      "title": "'Never Worn White': Katy Perry reveals pregnancy in love song to Orlando Bloom - USA TODAY",
+      "description": "Katy Perry revealed her growing baby bump in the music video for \"Never Worn White,\" Perry's first song of 2020. She confirmed her pregnancy later.",
+      "url": "https://www.usatoday.com/story/entertainment/music/2020/03/04/katy-perry-drops-new-single-never-worn-white-reveals-pregnancy/4955221002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2019/10/25/USAT/e39de71b-97ba-4af6-81f0-32d7451b3493-GTY_1142301367.JPG?crop=3126,1759,x0,y234&width=1600&height=800&fit=bounds",
+      "publishedAt": "2020-03-05T06:03:50Z",
+      "content": "At the Met Gala, Katy Perry revealed how heavy her chandelier outfit was, while Bella Hadid said the pop star had to come by truck. (May 7)\r\nAP Entertainment\r\nSurprise! Katy Perry is expecting.\r\nThe pop superstar and \"American Idol\" judge revealed her growing… [+2501 chars]"
+    },
+    {
+      "source": {"id": "cnn", "name": "CNN"},
+      "author": "Nicole Chavez and Jamiel Lynch, CNN",
+      "title": "An East Nashville couple and at least five young children are among the Tennessee tornado victims - CNN",
+      "description": "An East Nashville couple and at least five young children died when two powerful tornadoes touched down in Tennessee earlier this week.",
+      "url": "https://www.cnn.com/2020/03/04/us/victims-tennessee-tornado/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200304125547-02-cookeville-tennessee-tornado-0303-super-tease.jpg",
+      "publishedAt": "2020-03-05T05:50:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Joanna Stern",
+      "title": "Working From Home Because of Coronavirus? These Are Your Tech Fixes. - The Wall Street Journal",
+      "description": "A look at the biggest work-from-home tech annoyances and solutions",
+      "url": "https://www.wsj.com/articles/working-from-home-because-of-coronavirus-these-are-your-tech-fixes-11583326423",
+      "urlToImage": "https://images.wsj.net/im-160287/social",
+      "publishedAt": "2020-03-05T05:19:00Z",
+      "content": "And on the umpteenth day of the coronavirus panic, the overlords commanded: Thou shalt work from home.\r\nAs new cases of the viral infection pop up within the U.S., many companies have begun preparing employees to work from homeor what the cool kids call WFH. … [+142 chars]"
+    },
+    {
+      "source": {"id": null, "name": "Click2houston.com"},
+      "author": "Brittany Taylor",
+      "title": "Houston Health Department now doing lab testing for suspected coronavirus cases - KPRC Click2Houston",
+      "description": "The Houston Health Department laboratory announced Wednesday that it will now conduct COVID-19 testing for patients who meet the Centers for Control Disease testing criteria.",
+      "url": "https://www.click2houston.com/health/2020/03/05/houston-health-department-now-doing-lab-testing-for-suspected-coronavirus-cases/",
+      "urlToImage": "https://www.click2houston.com/resizer/rm8gmtMuScm6SgYImnTM_mnD3OY=/1600x1066/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/3PBTWT5M4VCOFERI7G6RWR4GSQ.jpg",
+      "publishedAt": "2020-03-05T04:19:43Z",
+      "content": "HOUSTON The Houston Health Department laboratory announced Wednesday that it will now conduct COVID-19 testing for cases that meet the Centers for Disease Control and Prevention testing criteria. \r\nAmong the first cases tested in Houston, was the Fort Bend Co… [+1251 chars]"
+    },
+    {
+      "source": {"id": null, "name": "Komonews.com"},
+      "author": "Suzanne Phan | KOMO News Reporter",
+      "title": "Seattle: A ghost town because of coronavirus outbreak? - KOMO News",
+      "description": "Public health authorities are recommending people take precautions to keep themselves safe from illness--avoiding large group gatherings and working from home. Some people are already noticing a difference. Some are even going so far to say that &ldquo;Seattl…",
+      "url": "http://komonews.com/news/coronavirus/seattle-a-ghost-town-because-of-coronavirus-outbreak",
+      "urlToImage": "http://static-19.sinclairstoryline.com/resources/media/32baa276-4f1c-48e9-91dc-f4c78da1423e-large16x9_Ghosttownbecauseofcoronavirus.jpg?1583379864300",
+      "publishedAt": "2020-03-05T03:46:53Z",
+      "content": null
+    },
+    {
+      "source": {"id": null, "name": "Theguardian.com"},
+      "author": "Vivian Ho",
+      "title": "Cruise ship linked to coronavirus death held off coast of San Francisco - The Guardian",
+      "description": "Ship now a focal point of emergency efforts to contain spread of virus as state reports first fatality",
+      "url": "https://www.theguardian.com/world/2020/mar/04/coronavirus-san-francisco-cruise-ship-grand-princess",
+      "urlToImage": "https://i.guim.co.uk/img/media/bd4ea339336061bbf3e72068820d61818e8c6e8b/0_104_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=440719ab7aaf42ecb84ff48944d51c35",
+      "publishedAt": "2020-03-05T03:43:00Z",
+      "content": "A cruise ship linked to the first death from coronavirus in California is being held off the coast of San Francisco, with 21 people on board reporting possible symptoms.\r\nThe death of a 71-year-old man on Wednesday was the first US fatality reported outside o… [+2662 chars]"
+    },
+    {
+      "source": {"id": "bleacher-report", "name": "Bleacher Report"},
+      "author": "Megan Armstrong",
+      "title": "Video: Knicks Fans Chant 'Sell the Team' Amid Growing Unrest at MSG - Bleacher Report",
+      "description": "Patience is wearing even thinner in New York.  Some  Knicks  fans chanted \"sell the team\" while leaving Madison Square Garden during the team's 112-104 loss to the  Utah Jazz  on Wednesday night...",
+      "url": "https://bleacherreport.com/articles/2879309-video-knicks-fans-chant-sell-the-team-amid-growing-unrest-at-msg",
+      "urlToImage": "https://img.bleacherreport.net/img/images/photos/003/855/848/hi-res-519628dcf0f8f7b973dac57953350dff_crop_exact.jpg?w=1200&h=1200&q=75",
+      "publishedAt": "2020-03-05T03:35:08Z",
+      "content": "Nathaniel S. Butler/Getty Images\r\nPatience is wearing even thinner in New York.\r\nSome Knicks fans chanted \"sell the team\" while leaving Madison Square Garden during the team's 112-104 loss to the Utah Jazz on Wednesday night. An usher apparently escorted them… [+1429 chars]"
+    },
+    {
+      "source": {"id": "nbc-news", "name": "NBC News"},
+      "author": "Phil Helsel",
+      "title": "Man faces 4 years in assault of man wearing hat with 'Make America Great Again' in Russian - NBC News",
+      "description": "A man accused of beating a man over a \"Make America Great Again\" hat at a Southern California bar in September pleaded no contest and faces four years in prison.",
+      "url": "https://www.nbcnews.com/news/us-news/man-faces-4-years-assault-man-wearing-hat-make-america-n1150166",
+      "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2019_40/3034731/191002-david-delgado-2x1-al-1329_ea055dc6f811c58b4ce0cf0427acd413.nbcnews-fp-1200-630.jpg",
+      "publishedAt": "2020-03-05T03:24:00Z",
+      "content": "A California man accused of assaulting another person at a Los Angeles-area bar over a hat that read \"Make America Great Again\" in Russian is facing four years in prison, prosecutors said.\r\nDavid Delgado, 32, pleaded no contest Wednesday to a felony count of … [+1425 chars]"
+    },
+    {
+      "source": {"id": null, "name": "Nypost.com"},
+      "author": "Miranda Devine",
+      "title": "Democrats should be wary of backing Joe Biden and his 'senior moments': Devine - New York Post ",
+      "description": "What Super Tuesday tells us is that a lot of Democrats would rather risk losing to President Trump with Joe Biden than allow a socialist like Bernie Sanders to hijack their party. That’s good for A…",
+      "url": "https://nypost.com/2020/03/04/democrats-should-be-wary-of-backing-joe-biden-and-his-senior-moments-devine/",
+      "urlToImage": "https://thenypost.files.wordpress.com/2020/03/bidens.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2020-03-05T03:23:00Z",
+      "content": "What Super Tuesday tells us is that a lot of Democrats would rather risk losing to President Trump with Joe Biden than allow a socialist like Bernie Sanders to hijack their party.\r\nThats good for America, but its also a treacherous Hail Mary pass for the part… [+5844 chars]"
+    },
+    {
+      "source": {"id": "cnn", "name": "CNN"},
+      "author": "Caroline Kelly, CNN",
+      "title": "Pro-Israel group warns that some conference attendees may have been exposed to coronavirus patient - CNN",
+      "description": "The American Israel Public Affairs Committee announced that some people who were potentially in contact with a coronavirus patient attended the group's Washington conference earlier this week -- as did several political leaders.",
+      "url": "https://www.cnn.com/2020/03/04/politics/aipac-coronavirus-warning/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190326003945-0326-aipac-02-super-tease.jpg",
+      "publishedAt": "2020-03-05T02:51:00Z",
+      "content": "(CNN)The American Israel Public Affairs Committee announced that some people who were potentially in contact with a coronavirus patient attended the group's Washington conference earlier this week -- as did several political leaders.\r\nThe annual three-day eve… [+2033 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Doug Cameron",
+      "title": "United Airlines Cuts U.S., International Flights in Response to Coronavirus - The Wall Street Journal",
+      "description": "Air carrier slicing domestic flying by 10%, international by 20% in April",
+      "url": "https://www.wsj.com/articles/united-airlines-cuts-u-s-international-flights-due-to-coronavirus-11583351359",
+      "urlToImage": "https://images.wsj.net/im-160802/social",
+      "publishedAt": "2020-03-05T02:34:00Z",
+      "content": "United Airlines Holdings Inc. said it would cut domestic flights, as the spreading coronavirus depresses bookings. \r\nAirlines world-wide have parked more than 1,000 planes as bookings have fizzled and concerns have risen that depressed demand could extend int… [+93 chars]"
+    },
+    {
+      "source": {"id": "nbc-news", "name": "NBC News"},
+      "author": "Laura Strickler, Caitlin Fichtel",
+      "title": "Coronavirus task force rolls out guidelines for nursing homes - NBC News",
+      "description": "The coronavirus task force headed by Vice President Mike Pence announced new guidelines Wednesday for how nursing homes should deal with the virus.",
+      "url": "https://www.nbcnews.com/health/health-news/coronavirus-guidelines-nursing-homes-rolled-out-n1150156",
+      "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_10/3256681/200304-seattle-kirkland-elder-care-coronavirus-ac-923p_f7d44d810df0a5cb76f311c2ce3006e3.nbcnews-fp-1200-630.jpg",
+      "publishedAt": "2020-03-05T02:34:00Z",
+      "content": "The Centers for Medicare and Medicaid Services issued new guidelines Wednesday for nursing homes to help stop the spread of coronavirus within facilities.\r\nThey come just a day after NBC News wrote about the criticisms the Trump administration faced after it … [+2075 chars]"
+    },
+    {
+      "source": {"id": "fox-news", "name": "Fox News"},
+      "author": "Joseph Wulfsohn",
+      "title": "Mark Levin slams Schumer over 'direct threats' to Gorsuch and Kavanaugh, calls for Senate ethics probe - Fox News",
+      "description": "\"Life, Liberty, & Levin\" host Mark Levin blasted Senate Minority Leader Chuck Schumer, D-N.Y. Wednesday and called for the Senate Ethics Committee to investigate his \"direct threats\" against two Supreme Court justices.",
+      "url": "https://www.foxnews.com/media/levin-chuck-schumer-direct-threats-gorsuch-kavanaugh",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Levine-Schumer_FOX-AP.jpg",
+      "publishedAt": "2020-03-05T02:28:04Z",
+      "content": "\"Life, Liberty, &amp; Levin\" host Mark Levin blasted Senate Minority Leader Chuck Schumer, D-N.Y. Wednesday and called for the Senate Ethics Committee to investigate his \"direct threats\" against two Supreme Court justices.\r\nSchumer had some choice words for J… [+2357 chars]"
+    },
+    {
+      "source": {"id": null, "name": "Youtube.com"},
+      "author": null,
+      "title": "Erendira Wallenda's Aerial Performance Above the Masaya Volcano - Volcano Live! with Nik Wallenda - ABC",
+      "description": "Aerialist Erendira Wallenda, wife of highwire great Nik Wallenda, performs a daring live routine in a lyra dangling over the active Masaya Volcano in Nicarag...",
+      "url": "https://www.youtube.com/watch?v=S64riFzsC2M",
+      "urlToImage": "https://i.ytimg.com/vi/S64riFzsC2M/maxresdefault.jpg",
+      "publishedAt": "2020-03-05T01:39:08Z",
+      "content": null
+    },
+    {
+      "source": {"id": null, "name": "Youtube.com"},
+      "author": null,
+      "title": "James Bond 'No Time To Die' Release Delayed Amid Coronavirus Concerns | NBC Nightly News - NBC News",
+      "description": "As concerns grow over the COVD-19 outbreak, questions are swirling around large public events like movies, concerts or conferences. Major companies like Twit...",
+      "url": "https://www.youtube.com/watch?v=Q00EK-NKfks",
+      "urlToImage": "https://i.ytimg.com/vi/Q00EK-NKfks/maxresdefault.jpg",
+      "publishedAt": "2020-03-05T01:25:00Z",
+      "content": "As concerns grow over the COVD-19 outbreak, questions are swirling around large public events like movies, concerts or conferences. Major companies like Twitter and Facebook have pulled out of Austins South by Southwest festival, and some other organizations … [+1014 chars]"
+    },
+    {
+      "source": {"id": "cbs-news", "name": "CBS News"},
+      "author": "Sophie Lewis",
+      "title": "Coronavirus: Italy is shutting down all schools nationwide amid outbreak - CBS News",
+      "description": "Italy has been the hardest-hit country in Europe, with more than 3,000 cases reported.",
+      "url": "https://www.cbsnews.com/news/coronavirus-italy-shutting-down-schools-nationwide-amid-outbreak/",
+      "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/04/dfd13243-90c3-40a6-8e61-154a597cab6e/thumbnail/1200x630/ad2944c70d05fa95ceee9f8a88e770c3/gettyimages-1202999777.jpg",
+      "publishedAt": "2020-03-05T01:13:00Z",
+      "content": "As Italy tries to contain the new coronavirus outbreak, the government has ordered all schools, universities and daycare facilities nationwide to close for 10 days, starting Thursday. \r\nThe closures, which will last until at least March 15, are part of an eff… [+1854 chars]"
+    },
+    {
+      "source": {"id": null, "name": "Latimes.com"},
+      "author": "Richard Read",
+      "title": "Empty stores, quarantined firefighters: Washington city at coronavirus epicenter reels as death toll rises - Los Angeles Times",
+      "description": "Kirkland, Wash., was once known for its folksy downtown and spectacular lakefront views. Now it is the U.S. epicenter of COVID-19.",
+      "url": "https://www.latimes.com/world-nation/story/2020-03-04/kirkland-washington-coronavirus",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/8334cdb/2147483647/strip/true/crop/840x441+0+60/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F74%2F67%2F35502dd24a8cbf0838b36797f0fc%2Fvirus.jpg",
+      "publishedAt": "2020-03-05T00:21:00Z",
+      "content": "Parents keep their children inside. Few people shake hands anymore. More than two dozen firefighters remain in quarantine. Restaurants and hair salons are close to empty.\r\nSuch is life in Kirkland, Wash., the suburb just east of Seattle known for its folksy d… [+5915 chars]"
+    },
+    {
+      "source": {"id": null, "name": "Nytimes.com"},
+      "author": "Shannon Stirone",
+      "title": "When Voyager 2 Calls Home, Earth Soon Won’t Be Able to Answer - The New York Times",
+      "description": "NASA will spend 11 months upgrading the only piece of its Deep Space Network that can send commands to the probe, which has crossed into interstellar space.",
+      "url": "https://www.nytimes.com/2020/03/04/science/voyager-2-nasa-deep-space-network.html",
+      "urlToImage": "https://static01.nyt.com/images/2020/02/05/science/00VOYAGER1/00VOYAGER1-facebookJumbo.jpg",
+      "publishedAt": "2020-03-05T00:13:00Z",
+      "content": "Staying warm enough is another major concern. The Voyager team has been slowly shutting off instruments in order to use their heaters to keep the spacecrafts fuel lines at a balmy 32 degrees Fahrenheit.\r\nWeve done the analysis to show that we can get through … [+1262 chars]"
+    }
+  ]
+}

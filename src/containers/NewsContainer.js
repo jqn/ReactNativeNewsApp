@@ -20,7 +20,7 @@ class NewsContainer extends Component {
     // This supplies your app with placeholder content
     this.setState({
       loading: false,
-      articles: data.articles,
+      articles: data.articles, // placeholder data
     });
     try {
       const response = await axios({

@@ -3,6 +3,7 @@ import {FlatList, Text, View} from 'react-native';
 import styles from './Styles/NewsContainerStyles';
 import axios from 'axios';
 import ArticleRow from '../components/ArticleRow/ArticleRow';
+import Header from '../components/Header';
 import data from '../data';
 
 class NewsContainer extends Component {
@@ -26,7 +27,7 @@ class NewsContainer extends Component {
       const response = await axios({
         method: 'get',
         url: 'http://newsapi.org/v2/top-headlines?country=us',
-        headers: {Authorization: 'yournewsapikey'}, // Replace yournewsapikey with your key
+        headers: {Authorization: '25dff1b564fc45caa463102771594e5c'}, // Replace yournewsapikey with your key
       });
       console.log(response.data.articles);
       this.setState({
@@ -50,6 +51,7 @@ class NewsContainer extends Component {
   render() {
     return (
       <View style={styles.container}>
+        <Header />
         <FlatList
           data={this.state.articles}
           ListHeaderComponent={

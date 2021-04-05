@@ -1,6 +1,9 @@
 import React from 'react';
 import {View, StyleSheet, Text, Image} from 'react-native';
 import PropTypes from 'prop-types';
+import {DateTime} from 'luxon';
+
+const now = DateTime.now();
 
 const styles = StyleSheet.create({
   container: {
@@ -41,7 +44,7 @@ const Header = () => {
         <Image style={styles.icon} source={require('../images/pear.png')} />
         <Text style={[styles.title, styles.topPadding]}>News</Text>
       </View>
-      <Text style={styles.subTitle}>April 5</Text>
+      <Text style={styles.subTitle}>{now.toFormat('LLLL d')}</Text>
     </View>
   );
 };

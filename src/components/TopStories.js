@@ -1,6 +1,7 @@
 import React from 'react';
 import {View, StyleSheet, Text, FlatList} from 'react-native';
 import PropTypes from 'prop-types';
+import ArticleCard from './ArticleCard';
 
 const styles = StyleSheet.create({
   container: {
@@ -13,11 +14,9 @@ const TopStories = () => {
     <View style={styles.container}>
       <FlatList
         data={this.state.articles}
-        ListHeaderComponent={
-          <Text style={styles.headerText}>Top Headlines</Text>
-        }
+        ListHeaderComponent={<Text style={styles.headerText}>Top Stories</Text>}
         renderItem={({item, index}) => {
-          return <ArticleRow index={index} {...item} />;
+          return <ArticleCard index={index} {...item} />;
         }}
         keyExtractor={(item) => `${item.publishedAt}-${item.title}`}
       />

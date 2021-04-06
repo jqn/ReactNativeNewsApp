@@ -3,6 +3,7 @@ import {FlatList, Text, View} from 'react-native';
 import styles from './Styles/NewsContainerStyles';
 import axios from 'axios';
 import ArticleRow from '../components/ArticleRow/ArticleRow';
+import ArticleCard from '../components/ArticleCard';
 import Header from '../components/Header';
 import data from '../data';
 
@@ -52,10 +53,11 @@ class NewsContainer extends Component {
     return (
       <View style={styles.container}>
         <Header />
+        <ArticleCard />
         <FlatList
           data={this.state.articles}
           ListHeaderComponent={
-            <Text style={styles.headerText}>Top Headlines</Text>
+            <Text style={styles.headerText}>Trending Stories</Text>
           }
           renderItem={({item, index}) => {
             return <ArticleRow index={index} {...item} />;

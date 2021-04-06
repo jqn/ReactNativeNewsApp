@@ -10,8 +10,8 @@ export default StyleSheet.create({
     flex: 1,
   },
   numberContainer: {
-    width: 50,
-    height: 50,
+    width: 42,
+    height: 42,
     borderRadius: 25,
     borderWidth: 1,
     borderColor: '#ff8d01',
@@ -39,7 +39,7 @@ export default StyleSheet.create({
     marginBottom: 16,
   },
   publishedAt: {
-    color: '#3d3c41',
+    color: '#8D8D94',
     fontSize: 12,
   },
 });
